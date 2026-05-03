@@ -28,11 +28,11 @@ MortisOS focuses on direct hardware communication through I/O ports. By utilizin
 
 ## Command List
 
-PRINT args - prints text in terminal (Example: PRINT HELLO)
-DATE - prints current date in terminal
-SYSTIKS - prints the total number of system clock ticks elapsed since boot
-CLR - clears the terminal 
-BEEP args - beeps for 1s in the specified frequency (Example: BEEP 440 (beeps in 440hz for 1s))
+* **PRINT <args>** - Prints the specified text to the terminal (e.g., `PRINT HELLO WORLD`).
+* **DATE** - Prints the current system date in the terminal.
+* **SYSTIKS** - Prints the total number of system clock ticks elapsed since boot.
+* **CLR** - Clears all text currently visible in the terminal.
+* **BEEP <freq>** - Beeps for 1s at the specified frequency (e.g., `BEEP 440` for 440Hz).
 
 ---
 
