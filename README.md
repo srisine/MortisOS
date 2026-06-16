@@ -43,7 +43,7 @@ You will need an `x86_64-elf` cross-compiler toolchain, `make`, and `xorriso`.
 
 1.  **Clone the Repo:**
     ```bash
-    git clone [https://github.com/yourusername/MortisOS.git](https://github.com/yourusername/MortisOS.git)
+    git clone https://github.com/srisine/MortisOS.git
     cd MortisOS
     ```
 
